@@ -36,5 +36,7 @@ public class GestionArchivo {
             System.err.println("No se encontro archivo");
         }
         ui.texto.setText(texto);
+
+
     }
 }
